@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
-<h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Software+Developer;Learning+AI+and+Machine+Learning;Love+Building+Projects&center=true&width=500&height=50">
+</p>
 ---
 
 ### 👩‍💻 About Me
